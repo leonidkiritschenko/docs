@@ -12,3 +12,7 @@ https://jimkang.medium.com/complete-uninstall-remove-vscode-mac-5e48bef3bdec[Com
 .. sudo rm -rf $HOME/.vscode-insiders/
 . Remove VS Code from application (e.g. AppCleaner)
 . Donwload and install VS Code again
+
+== VS Code Basics
+
+- Command Palette (Shift + CMD + P)
